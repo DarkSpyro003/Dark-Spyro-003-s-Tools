@@ -1,0 +1,114 @@
+PHP Notice:  Undefined property: Dark_Spyro_Bot::$EnableBotAsMailer in /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php on line 1034
+PHP Stack trace:
+PHP   1. {main}() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:0
+PHP   2. Net_SmartIRC_base->listen() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:1428
+PHP   3. Net_SmartIRC_base->listenOnce() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1359
+PHP   4. Net_SmartIRC_base->_rawreceive() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1377
+PHP   5. Net_SmartIRC_base->_handleactionhandler() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2007
+PHP   6. Dark_Spyro_Bot->mailcheck() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2356
+PHP Warning:  preg_match(): Unknown modifier '(' in /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php on line 2347
+PHP Stack trace:
+PHP   1. {main}() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:0
+PHP   2. Net_SmartIRC_base->listen() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:1428
+PHP   3. Net_SmartIRC_base->listenOnce() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1359
+PHP   4. Net_SmartIRC_base->_rawreceive() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1377
+PHP   5. Net_SmartIRC_base->_handleactionhandler() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2007
+PHP   6. preg_match() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2347
+PHP Warning:  preg_match(): Unknown modifier '(' in /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php on line 2347
+PHP Stack trace:
+PHP   1. {main}() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:0
+PHP   2. Net_SmartIRC_base->listen() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:1428
+PHP   3. Net_SmartIRC_base->listenOnce() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1359
+PHP   4. Net_SmartIRC_base->_rawreceive() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1377
+PHP   5. Net_SmartIRC_base->_handleactionhandler() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2007
+PHP   6. preg_match() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2347
+PHP Warning:  preg_match(): Unknown modifier '(' in /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php on line 2347
+PHP Stack trace:
+PHP   1. {main}() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:0
+PHP   2. Net_SmartIRC_base->listen() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:1428
+PHP   3. Net_SmartIRC_base->listenOnce() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1359
+PHP   4. Net_SmartIRC_base->_rawreceive() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1377
+PHP   5. Net_SmartIRC_base->_handleactionhandler() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2007
+PHP   6. preg_match() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2347
+PHP Warning:  preg_match(): Unknown modifier '(' in /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php on line 2347
+PHP Stack trace:
+PHP   1. {main}() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:0
+PHP   2. Net_SmartIRC_base->listen() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:1428
+PHP   3. Net_SmartIRC_base->listenOnce() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1359
+PHP   4. Net_SmartIRC_base->_rawreceive() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1377
+PHP   5. Net_SmartIRC_base->_handleactionhandler() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2007
+PHP   6. preg_match() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2347
+PHP Warning:  preg_match(): Unknown modifier '(' in /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php on line 2347
+PHP Stack trace:
+PHP   1. {main}() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:0
+PHP   2. Net_SmartIRC_base->listen() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:1428
+PHP   3. Net_SmartIRC_base->listenOnce() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1359
+PHP   4. Net_SmartIRC_base->_rawreceive() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1377
+PHP   5. Net_SmartIRC_base->_handleactionhandler() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2007
+PHP   6. preg_match() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2347
+PHP Warning:  preg_match(): Unknown modifier '(' in /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php on line 2347
+PHP Stack trace:
+PHP   1. {main}() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:0
+PHP   2. Net_SmartIRC_base->listen() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:1428
+PHP   3. Net_SmartIRC_base->listenOnce() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1359
+PHP   4. Net_SmartIRC_base->_rawreceive() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1377
+PHP   5. Net_SmartIRC_base->_handleactionhandler() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2007
+PHP   6. preg_match() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2347
+PHP Warning:  preg_match(): Unknown modifier '(' in /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php on line 2347
+PHP Stack trace:
+PHP   1. {main}() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:0
+PHP   2. Net_SmartIRC_base->listen() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:1428
+PHP   3. Net_SmartIRC_base->listenOnce() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1359
+PHP   4. Net_SmartIRC_base->_rawreceive() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1377
+PHP   5. Net_SmartIRC_base->_handleactionhandler() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2007
+PHP   6. preg_match() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2347
+PHP Warning:  preg_match(): Unknown modifier '(' in /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php on line 2347
+PHP Stack trace:
+PHP   1. {main}() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:0
+PHP   2. Net_SmartIRC_base->listen() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:1428
+PHP   3. Net_SmartIRC_base->listenOnce() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1359
+PHP   4. Net_SmartIRC_base->_rawreceive() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1377
+PHP   5. Net_SmartIRC_base->_handleactionhandler() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2007
+PHP   6. preg_match() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2347
+PHP Warning:  preg_match(): Unknown modifier '(' in /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php on line 2347
+PHP Stack trace:
+PHP   1. {main}() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:0
+PHP   2. Net_SmartIRC_base->listen() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:1428
+PHP   3. Net_SmartIRC_base->listenOnce() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1359
+PHP   4. Net_SmartIRC_base->_rawreceive() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1377
+PHP   5. Net_SmartIRC_base->_handleactionhandler() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2007
+PHP   6. preg_match() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2347
+PHP Warning:  preg_match(): Unknown modifier '(' in /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php on line 2347
+PHP Stack trace:
+PHP   1. {main}() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:0
+PHP   2. Net_SmartIRC_base->listen() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:1428
+PHP   3. Net_SmartIRC_base->listenOnce() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1359
+PHP   4. Net_SmartIRC_base->_rawreceive() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1377
+PHP   5. Net_SmartIRC_base->_handleactionhandler() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2007
+PHP   6. preg_match() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2347
+PHP Warning:  preg_match(): Unknown modifier '(' in /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php on line 2347
+PHP Stack trace:
+PHP   1. {main}() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:0
+PHP   2. Net_SmartIRC_base->listen() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:1428
+PHP   3. Net_SmartIRC_base->listenOnce() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1359
+PHP   4. Net_SmartIRC_base->_rawreceive() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1377
+PHP   5. Net_SmartIRC_base->_handleactionhandler() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2007
+PHP   6. preg_match() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2347
+PHP Warning:  preg_match(): Unknown modifier '(' in /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php on line 2347
+PHP Stack trace:
+PHP   1. {main}() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:0
+PHP   2. Net_SmartIRC_base->listen() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:1428
+PHP   3. Net_SmartIRC_base->listenOnce() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1359
+PHP   4. Net_SmartIRC_base->_rawreceive() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1377
+PHP   5. Net_SmartIRC_base->_handleactionhandler() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2007
+PHP   6. preg_match() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2347
+PHP Fatal error:  Call to undefined function mysql_connect() in /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php on line 1382
+PHP Stack trace:
+PHP   1. {main}() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:0
+PHP   2. Net_SmartIRC_base->listen() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:1428
+PHP   3. Net_SmartIRC_base->listenOnce() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1359
+PHP   4. Net_SmartIRC_base->_rawreceive() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:1377
+PHP   5. Net_SmartIRC_base->_handleactionhandler() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2007
+PHP   6. trac->changeset() /home/anonymous/SVN/dark_spyro_bot/pear/SmartIRC.php:2356
+PHP   7. CheckHuman() /home/anonymous/SVN/dark_spyro_bot/bot/botbase.php:1295
+
